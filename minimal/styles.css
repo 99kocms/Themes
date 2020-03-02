@@ -56,9 +56,9 @@ input[type=submit], input[type=button]{
 /* CODE */
 
 pre{
-    white-space: pre-wrap;
     white-space: -moz-pre-wrap;
     white-space: -o-pre-wrap;
+    white-space: pre-wrap;
 }
 
 code{
